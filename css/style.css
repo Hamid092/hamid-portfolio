@@ -446,7 +446,7 @@ font-family:  cursive;
     color: #eee;
     font-weight: bold;
     font-style: oblique;
-    font-family:  cursive;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px; 
     text-align: center;
     margin-bottom:3px ;
@@ -1987,7 +1987,7 @@ font-size: 15px;
     margin: 0 auto;
 }
 .project-box h3 {
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
     margin-bottom: 11px;
     margin: 10px 0px 9px -2px;
