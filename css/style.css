@@ -778,11 +778,11 @@ font-family:  cursive;
 
    }
  
-   .btns {
+  .btns {
     position: static;
     display: inherit;
-    width: 53%;
-    margin: 43px auto;
+    width: 47%;
+    margin: 59px auto;
 }
    .navbtn{
     font-size: 44px;
@@ -837,23 +837,31 @@ font-family:  cursive;
    
     width: 164px;
 }
-.container button{
-    display: block;
+.container button {
+    /* display: block; */
     position: absolute;
-    bottom: -1125px;
-    left: 213px;
+    bottom: -614px;
+    left: 273px;
 }
 .container {
     width: 90%;
     height: 693px;
     padding: 33px;
 }
-
-
+     }
+.about-continer {
+    background: #000000;
+    height: 977px;
+    width: 100%;
+    padding: 55px;
+}
 
 .container2{
     display: block;
 
+}
+#skill{
+    height:888px;
 }
 
 .skill-container{
@@ -892,6 +900,29 @@ margin: 9px 23px -5px -97px;
      display: flex;
     flex-wrap: wrap;
     margin: 18px 114px;
+}
+
+#contact-us {
+    width: 100%;
+    height: 76vh;
+    margin: 0;
+    padding-top: 181px;
+    background: #000000;
+}
+.project-box img {
+    height: 252px;
+    width: 492px;
+    margin: 111px 8px;
+    margin-left: -511px;
+    border: 4px solid #d70b0b;
+}
+.proj-section {
+    height: 255px;
+    width: 449px;
+    background: #ef1212;
+    padding: 15px 0;
+    color: #eee;
+    text-align: left;
 }
 
 
