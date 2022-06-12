@@ -1958,10 +1958,6 @@ font-size: 15px;
     font-size: 15px;
     width: 142px;
 }
-.container2 {
-    display: block;
-    margin-top: 12px;
-}
 
 
 .skill-container {
@@ -1979,7 +1975,11 @@ font-size: 15px;
  font-size: 16px;
  font-weight: 500;
 }
-
+.container2 {
+    width: 90%;
+    margin: 106px auto;
+    display: block;
+}
 
 .proj-head h1 {
     font-size: 31px;
