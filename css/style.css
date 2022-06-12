@@ -1958,7 +1958,6 @@ font-size: 15px;
     font-size: 15px;
     width: 142px;
 }
-.
 .container2 {
     display: block;
     margin-top: 12px;
@@ -1988,10 +1987,10 @@ font-size: 15px;
     margin: 0 auto;
 }
 .project-box h3 {
-    font-size: 17px;
+    font-size: 20px;
     text-align: center;
     margin-bottom: 11px;
-    margin: -10px 0px 9px -2px;
+    margin: 10px 0px 9px -2px;
 }
 #project{
  height: 1587px;
